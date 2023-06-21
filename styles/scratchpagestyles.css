@@ -1,0 +1,38 @@
+body{
+    font-family:Verdana, Tahoma, sans-serif;
+    color:rgb(99, 99, 99);
+    background-color: lightblue;
+    font-size: 15px;
+}
+
+a:visited{
+    color: azure;
+    font-weight: light;
+}
+
+a:hover{
+    color:aliceblue;
+}
+
+.styled-div {
+    background-color:lightseagreen;
+    color: #333;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.underlineMe{
+    text-decoration: underline;
+}
+
+.alignMe{
+    text-align: left;
+}
+
+
+
+
+
+
+
